@@ -19,6 +19,7 @@ I've completed the full **CS50** track (x, W, G, AI) — which means I've debugg
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![CS50W](https://img.shields.io/badge/CS50W-Web_Programming-A51C30?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎮 Game Development & 3D Art
@@ -27,6 +28,7 @@ I've completed the full **CS50** track (x, W, G, AI) — which means I've debugg
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Game Server Hosting](https://img.shields.io/badge/Game_Server_Hosting-0052CC?style=for-the-badge&logo=serverfault&logoColor=white)
 
 ### 🎵 Music, Audio & Sound Design
