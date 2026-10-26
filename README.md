@@ -43,7 +43,7 @@ I've completed the full **CS50** track (x, W, G, AI) — which means I've debugg
 
 ### 🌐 Social
 
-[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)](YOUR_SPOTIFY_LINK)
+[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)]([YOUR_SPOTIFY_LINK](https://open.spotify.com/artist/4T0IXsOYiXgGgB34H1oh2M))
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](YOUR_SOUNDCLOUD_LINK)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
