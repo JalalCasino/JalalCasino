@@ -48,22 +48,4 @@ I've completed the full **CS50** track (x, W, G, AI) — which means I've debugg
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](YOUR_SOUNDCLOUD_LINK)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
-[![Music Channel](https://img.shields.io/badge/Music_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_MUSIC_CHANNEL_LINK)
-🔧 What to replace
-Placeholder	What to put
-YOUR_SPOTIFY_LINK	Your Spotify artist/profile URL
-YOUR_YOUTUBE_LINK	Your YouTube channel URL
-YOUR_SOUNDCLOUD_LINK	Your SoundCloud profile URL
-YOUR_INSTAGRAM_LINK	Your Instagram profile URL
-YOUR_TELEGRAM_LINK	Your personal Telegram (https://t.me/yourusername)
-YOUR_TELEGRAM_MUSIC_CHANNEL_LINK	Your music channel (https://t.me/yourchannel)
-💡 Why the music channel badge is styled that way
-It uses the same Telegram blue (#26A5E4) and logo, so it visually pairs with your personal Telegram badge — but the label says "Music Channel" so there's zero confusion about which is which.
-
-If you want it to stand out more (e.g., a green "music" vibe instead), swap the color to 1DB954 to match your Spotify/Composing badges:
-
-markdown
 [![Music Channel](https://img.shields.io/badge/Music_Channel-1DB954?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_MUSIC_CHANNEL_LINK)
-Paste your links here and I'll drop them in so you get the final copy-paste-ready file in one shot.
-
-
