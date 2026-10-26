@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Farhan [aka JCas]
+# I'm Farhan — aka JCas.
 
-I'm a multidisciplinary developer and creator who loves building systems that are as functional as they are creative. I bridge the gap between **intelligent backend logic** and **immersive interactive experiences**—whether that's training AI models, engineering secure game servers, or composing soundtracks for virtual worlds.
+I'm a developer and creative who works across a few different worlds: building backends with **FastAPI** and **Django**, training **AI models**, and doing **cybersecurity** and **penetration testing** on the side. When I'm not in code, I'm usually doing **sound design**, composing music, or building worlds in **Unreal Engine 5** and **Godot**.
 
-I've completed the core **CS50** track (x, W, G, AI) and I'm constantly exploring the intersection of code, sound, and security.
+I've completed the full **CS50** track (x, W, G, AI) — which means I've debugged C pointers at 3 AM more times than I'd like to admit.
+
+**Currently:** building things that shouldn't work together (but do), and occasionally touching grass.
 
 ---
 
