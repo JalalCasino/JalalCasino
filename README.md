@@ -16,6 +16,7 @@ I've completed the full **CS50** track (x, W, G, AI) — which means I've debugg
 
 ### 🌐 Web & Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![CS50W](https://img.shields.io/badge/CS50W-Web_Programming-A51C30?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -25,6 +26,7 @@ I've completed the full **CS50** track (x, W, G, AI) — which means I've debugg
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Game Server Hosting](https://img.shields.io/badge/Game_Server_Hosting-0052CC?style=for-the-badge&logo=serverfault&logoColor=white)
 
 ### 🎵 Music, Audio & Sound Design
@@ -36,6 +38,7 @@ I've completed the full **CS50** track (x, W, G, AI) — which means I've debugg
 ### 🛡️ Cybersecurity & CS50 Core
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-B22222?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![CS50x](https://img.shields.io/badge/CS50x-Introduction_to_CS-A51C30?style=for-the-badge&logo=harvard&logoColor=white)
 ![CS50G](https://img.shields.io/badge/CS50G-Game_Development-A51C30?style=for-the-badge&logo=unity&logoColor=white)
 
